@@ -251,6 +251,7 @@ dj
 dk
 dm
 do
+doe
 does
 doesn
 doesn't
