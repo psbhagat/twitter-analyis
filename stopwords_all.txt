@@ -72,6 +72,7 @@ anyways
 anywhere
 ao
 apart
+app
 apparently
 appear
 appreciate
@@ -614,6 +615,7 @@ makes
 making
 man
 many
+max
 may
 maybe
 mayn't
@@ -639,6 +641,7 @@ mightnt
 mil
 mill
 million
+min
 mine
 minus
 miss
